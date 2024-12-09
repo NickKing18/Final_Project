@@ -1,0 +1,46 @@
+.caption{
+  font-size: 14px;
+  color: #e25b5b;
+  margin-top:8px;
+}
+
+iframe {
+  border:4px black;
+
+}
+
+h2{
+  font-family: "Helvetia", sans-serif;
+  font-style: strong;
+  color: #b61515;
+}
+
+h6{
+  color: #e25b5b;
+}
+
+.assign_header {
+  background-color: darkblue;
+  color: white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-bottom: 18px;
+}
+
+story-header{
+  border-bottom: black 50px;
+}
+.my-custom-row{
+  background-color: #cac8c8;
+
+}
+.my-custom-row-2{
+  background-color: #f9f4f4;
+}
+.byline{
+  color: #b61515;
+}
+
+p{
+  font-style: "Roman", sans-serif;
+}
